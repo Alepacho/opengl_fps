@@ -1,0 +1,11 @@
+.DS_Store
+.hidden
+.vscode
+demo.dSYM
+demo
+demo.exe
+demo.bin
+demo.out
+a.out
+compile_commands.json
+index
